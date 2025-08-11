@@ -1,0 +1,11 @@
+Name = "Nnamdi"
+special = "coding"
+age = 7
+grade = 4
+likes = "playing games"
+helps = "cleaning"
+weight = 36.7
+long = 136
+student = True
+# string = Nnamdi, coding, playing games, cleaning
+# intergers = 7, 4, 136
